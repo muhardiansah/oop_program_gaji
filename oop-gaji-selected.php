@@ -11,6 +11,7 @@
 			<option value="2">burhan</option>
 			<option value="3">ceci</option>
 			<option value="4">doi</option>
+			<option value="5">tambah lagi</option>
 		</select>
 		<input type="submit" name="hitung" value="hitung">
 	</form>
